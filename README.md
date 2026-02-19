@@ -18,6 +18,8 @@ Indeed, words with weird sequences of characters tend to be quite frequent. For 
 frequent words using 'q' at the end of the word and there are probably the only words following this rule. Weighting by the
 frequency would give a lot of importance to the sequence 'q' + end of the word, which would look weird in any invented word.
 
+Learn more on [my blog](https://cedriccolas.com/project/charabia).
+
 Author: Cédric Colas
 
 Email: cdric.colas@gmail.com
