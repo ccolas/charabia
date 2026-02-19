@@ -19,4 +19,5 @@ frequent words using 'q' at the end of the word and there are probably the only 
 frequency would give a lot of importance to the sequence 'q' + end of the word, which would look weird in any invented word.
 
 Author: Cédric Colas
+
 Email: cdric.colas@gmail.com
